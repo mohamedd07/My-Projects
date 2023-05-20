@@ -1,0 +1,12 @@
+Order id :
+1
+Total Price : 
+200.0
+Order id :
+1
+Total Price : 
+1050.0
+Order id :
+1
+Total Price : 
+1050.0

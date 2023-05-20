@@ -1,0 +1,13 @@
+CATEGORY,Toffee
+ITEM,Coffee,30.0,500.0,50.0,toffee with favorite coffee and the ingredients is coffee and milk
+ITEM,Honey,35.0,460.0,50.0,toffee with favorite honey and the ingredients is honey and milk
+ITEM,Caramel,40.0,500.0,50.0,toffee with favorite caramel and the ingredients is caramel and milk
+CATEGORY,Torta
+ITEM,Fraola,600.0,500.0,10.0,torta with favorite fraola and the ingredients is fraola and milk and flour an degges
+ITEM,Checolata,700.0,500.0,10.0,torta with favorite checolata and the ingredients is checolata and milk and flour and egges
+ITEM,Mango,700.0,500.0,10.0,torta with favorite mango and the ingredients is mango and milk and flour and egges
+CATEGORY,Gato
+ITEM,Checolata,200.0,500.0,10.0,gato with favorite checolata and the ingredients is checolata and milk and flour and egges
+ITEM,Fraola,195.0,500.0,10.0,gato with favorite fraola and the ingredients is fraola and milk and flour and egges
+ITEM,Max,210.0,498.0,10.0,gato with favorite max between checolata and fraola and the ingredients is checolata and fraola and milk and flour and egges
+ITEM,Max + Fruites,220.0,500.0,10.0,gato with favorite max between checolata and fraola and natural fruites and the ingredients is checolata and fraola
